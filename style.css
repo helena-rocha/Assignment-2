@@ -3,7 +3,7 @@
 }
 
 .background {
-  background-color: plum
+  background-color: plum;
 }
 
 .first-section {
@@ -45,7 +45,6 @@
 .third-picture {
   width: 100px;
   height: 100px;
-
 }
 
 .fourth-picture {
